@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+auto-fill/__init__.py
+auto-fill/main.py
+auto_fill.egg-info/PKG-INFO
+auto_fill.egg-info/SOURCES.txt
+auto_fill.egg-info/dependency_links.txt
+auto_fill.egg-info/top_level.txt
