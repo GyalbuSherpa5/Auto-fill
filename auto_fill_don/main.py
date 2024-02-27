@@ -2,13 +2,14 @@ import pyperclip  # Required for clipboard operations
 
 # dummy data
 credentials = {
+    "don@gmail.com": "i am don",
     "don1@gmail.com": "pass1",
     "don2@gmail.com": "pass2",
     "don3@gmail.com": "pass3"
 }
 
 
-def main():
+def autofill():
     email = input("Enter your email: ")
 
     if email in credentials:
@@ -20,4 +21,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    autofill()
+
