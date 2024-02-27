@@ -1,0 +1,3 @@
+[console_scripts]
+auto_fill = auto_fill:autofill
+don = auto_fill:don

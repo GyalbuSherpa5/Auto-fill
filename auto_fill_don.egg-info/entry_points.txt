@@ -1,0 +1,4 @@
+[console_scripts]
+auto_fill_don = auto_fill_don:autofill
+load = auto_fill_don:retrieve_passwords
+save = auto_fill_don:add_entry

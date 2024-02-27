@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: auto_fill_don
+Version: 0.3
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Requires-Python: >=3.12.2
+License-File: LICENSE
+Requires-Dist: pyperclip>=1.8.2
+Requires-Dist: pycryptodome>=3.20.0
